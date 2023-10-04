@@ -8,9 +8,11 @@
 </div>
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5ced73&width=510&lines=Welcome%2C+to+Novalt+Corporation)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0088ff&width=510&lines=Welcome%2C+to+Novalt+Corporation)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br />
+<img min-width="350px" max-width="450px" width="390px" align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 <a href="https://www.instagram.com/rodinsarmento/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
 <a href="https://www.linkedin.com/in/novalt-corporation/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
@@ -33,6 +35,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=007396)
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=Ionic&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=007396)
+
+<br />
 
 #### Softwares:
 
@@ -59,9 +63,6 @@
     <td>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novalt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
   </td>
-    <td>
-<br/>
- </td>
   </tr>
 </table><br/>
 
